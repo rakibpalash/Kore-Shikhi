@@ -1,0 +1,259 @@
+<div style="width: 1440px; position: relative; background: var(--base-White, white); overflow: hidden; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+  <div style="align-self: stretch; padding-top: 144px; padding-bottom: 40px; padding-left: 80px; padding-right: 80px; flex-direction: column; justify-content: center; align-items: flex-start; gap: 80px; display: flex">
+    <div style="align-self: stretch; justify-content: center; align-items: center; gap: 16px; display: inline-flex">
+      <img style="width: 56px; height: 56px" src="https://placehold.co/56x56" />
+      <div style="text-align: center; color: var(--text-primary, #2D2D2D); font-size: 44px; font-family: Hind Siliguri; font-weight: 600; line-height: 56px; word-wrap: break-word">যোগাযোগ</div>
+      <div style="width: 31.72px; height: 25.96px; transform: rotate(172deg); transform-origin: top left; background: var(--brand-secondary, #96CAE4)"></div>
+      <div style="width: 33.94px; height: 14.62px; transform: rotate(172deg); transform-origin: top left; background: var(--brand-secondary, #96CAE4)"></div>
+      <div style="width: 18.50px; height: 24.85px; transform: rotate(172deg); transform-origin: top left; background: var(--brand-secondary, #96CAE4)"></div>
+    </div>
+  </div>
+  <div style="width: 1440px; padding-top: 40px; padding-bottom: 80px; padding-left: 200px; padding-right: 120px; background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, white 46%); overflow: hidden; justify-content: flex-start; align-items: flex-start; gap: 120px; display: inline-flex">
+    <div style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: inline-flex">
+      <div data-error="No" data-help-icon="false" data-input-field="true" data-label="true" data-optional="false" data-type="Text" data-validation-text="false" style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: center; gap: 8px; display: flex">
+        <div style="align-self: stretch; overflow: hidden; justify-content: flex-start; align-items: center; gap: 6px; display: inline-flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 6px; display: flex">
+            <div style="justify-content: center; display: flex; flex-direction: column; color: var(--text-primary, #2D2D2D); font-size: 14px; font-family: Hind Siliguri; font-weight: 500; line-height: 20px; word-wrap: break-word">নাম</div>
+          </div>
+        </div>
+        <div data-active="No" data-country-code="false" data-lead-icon="false" data-size="sm" data-state="Default" data-tail-icon="false" data-tail-text="false" data-toggle="false" data-type="Basic" style="align-self: stretch; height: 40px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 5px; display: flex">
+          <div style="align-self: stretch; flex: 1 1 0; padding-left: 12px; padding-right: 12px; background: var(--bg-primary, white); box-shadow: 0px 1.5px 4px -1px rgba(10, 9, 11, 0.07); overflow: hidden; border-radius: 8px; outline: 1px var(--border-secondary, #E9EAEB) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+            <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 8px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: var(--text-quaternary, #A4A7AE); font-size: 14px; font-family: Hind Siliguri; font-weight: 400; line-height: 20px; word-wrap: break-word">আপনার নাম লেখুন</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div data-error="No" data-help-icon="false" data-input-field="true" data-label="true" data-optional="false" data-type="Text" data-validation-text="false" style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: center; gap: 8px; display: flex">
+        <div style="align-self: stretch; overflow: hidden; justify-content: flex-start; align-items: center; gap: 6px; display: inline-flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 6px; display: flex">
+            <div style="justify-content: center; display: flex; flex-direction: column; color: var(--text-primary, #2D2D2D); font-size: 14px; font-family: Hind Siliguri; font-weight: 500; line-height: 20px; word-wrap: break-word">ফোন নাম্বার</div>
+          </div>
+        </div>
+        <div data-active="No" data-country-code="true" data-lead-icon="false" data-size="sm" data-state="Default" data-tail-icon="false" data-tail-text="false" data-toggle="false" data-type="Basic" style="align-self: stretch; height: 40px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 5px; display: flex">
+          <div style="align-self: stretch; flex: 1 1 0; padding-left: 12px; padding-right: 12px; background: var(--bg-primary, white); box-shadow: 0px 1.5px 4px -1px rgba(10, 9, 11, 0.07); overflow: hidden; border-radius: 8px; outline: 1px var(--border-secondary, #E9EAEB) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+            <div style="justify-content: flex-start; align-items: center; gap: 8px; display: flex">
+              <div style="justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+                <div data-name="US" style="width: 20.42px; height: 14px; position: relative; overflow: hidden; border-radius: 2px">
+                  <div style="width: 20.42px; height: 14px; left: 0px; top: 0px; position: absolute; background: white"></div>
+                  <div style="width: 20.42px; height: 14px; left: 0px; top: 0px; position: absolute; background: #D80027"></div>
+                  <div style="width: 10.21px; height: 7.54px; left: 0px; top: 0px; position: absolute; background: #2E52B2"></div>
+                  <div style="width: 8.12px; height: 5.51px; left: 1.04px; top: 1.01px; position: absolute; background: white"></div>
+                </div>
+                <div style="width: 16px; height: 16px; position: relative">
+                  <div style="width: 8px; height: 3.66px; left: 4px; top: 6.40px; position: absolute; outline: 1.20px var(--text-quaternary, #A4A7AE) solid; outline-offset: -0.60px"></div>
+                </div>
+              </div>
+              <div style="justify-content: center; display: flex; flex-direction: column; color: var(--text-quaternary, #A4A7AE); font-size: 14px; font-family: Onest; font-weight: 400; line-height: 20px; word-wrap: break-word">+971</div>
+            </div>
+            <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 8px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: var(--text-quaternary, #A4A7AE); font-size: 14px; font-family: Onest; font-weight: 400; line-height: 20px; word-wrap: break-word">12345678</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div data-error="No" data-help-icon="false" data-input-field="true" data-label="true" data-optional="false" data-type="Text" data-validation-text="false" style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: center; gap: 8px; display: flex">
+        <div style="align-self: stretch; overflow: hidden; justify-content: flex-start; align-items: center; gap: 6px; display: inline-flex">
+          <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 6px; display: flex">
+            <div style="justify-content: center; display: flex; flex-direction: column; color: var(--text-primary, #2D2D2D); font-size: 14px; font-family: Hind Siliguri; font-weight: 500; line-height: 20px; word-wrap: break-word">মেসেজ</div>
+          </div>
+        </div>
+        <div data-active="No" data-country-code="false" data-lead-icon="false" data-size="sm" data-state="Default" data-tail-icon="false" data-tail-text="false" data-toggle="false" data-type="Basic" style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: center; gap: 5px; display: flex">
+          <div style="align-self: stretch; padding-left: 12px; padding-right: 12px; padding-top: 10px; padding-bottom: 10px; background: var(--bg-primary, white); box-shadow: 0px 1.5px 4px -1px rgba(10, 9, 11, 0.07); overflow: hidden; border-radius: 8px; outline: 1px var(--border-secondary, #E9EAEB) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+            <div style="flex: 1 1 0; justify-content: flex-start; align-items: center; gap: 8px; display: flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: var(--text-quaternary, #A4A7AE); font-size: 14px; font-family: Hind Siliguri; font-weight: 400; line-height: 20px; word-wrap: break-word">আপনি জা জানতে অথবা বলতে চান...<br/><br/><br/><br/><br/></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div style="align-self: stretch; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+        <div data-icon-only="False" data-☑️-state="Default" data-⚙️-type="Secondary" data-⛔-destructive="False" data-➡️-tail-icon="false" data-⬅️-lead-icon="false" data-📏-size="Small" data-🟢dot="false" style="flex: 1 1 0; height: 36px; padding-left: 12px; padding-right: 12px; background: var(--bg-secondary, #F4F4F4); overflow: hidden; border-radius: 8px; justify-content: center; align-items: center; gap: 8px; display: flex">
+          <div style="justify-content: center; display: flex; flex-direction: column; color: var(--text-secondary, #414651); font-size: 14px; font-family: Hind Siliguri; font-weight: 500; line-height: 20px; word-wrap: break-word">ফর্ম ক্লিয়ার করুন</div>
+        </div>
+        <div data-icon-only="False" data-☑️-state="Default" data-⚙️-type="Primary" data-⛔-destructive="False" data-➡️-tail-icon="false" data-⬅️-lead-icon="false" data-📏-size="Small" data-🟢dot="false" style="flex: 1 1 0; height: 36px; padding-left: 12px; padding-right: 12px; background: var(--brand-solid, #007EBD); overflow: hidden; border-radius: 8px; justify-content: center; align-items: center; gap: 8px; display: flex">
+          <div style="justify-content: center; display: flex; flex-direction: column; color: var(--text-invert, white); font-size: 14px; font-family: Hind Siliguri; font-weight: 500; line-height: 20px; word-wrap: break-word">মেসেজ পাঠান</div>
+        </div>
+      </div>
+    </div>
+    <div style="width: 460px; flex-direction: column; justify-content: center; align-items: flex-start; gap: 40px; display: inline-flex">
+      <div style="align-self: stretch; flex-direction: column; justify-content: center; align-items: flex-start; gap: 24px; display: flex">
+        <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: flex">
+          <div style="justify-content: center; display: flex; flex-direction: column; color: var(--text-primary, #2D2D2D); font-size: 24px; font-family: Hind Siliguri; font-weight: 600; line-height: 32px; word-wrap: break-word">আমাদের সাথে চ্যাট করুন</div>
+          <div style="justify-content: center; display: flex; flex-direction: column; color: var(--text-secondary, #414651); font-size: 16px; font-family: Hind Siliguri; font-weight: 500; line-height: 24px; word-wrap: break-word">লাইভ চ্যাটের মাধ্যমে আমাদের বন্ধুত্বপূর্ণ দলের সাথে কথা বলুন।</div>
+        </div>
+        <div style="align-self: stretch; justify-content: flex-start; align-items: flex-start; gap: 12px; display: inline-flex">
+          <div data-property-1="outline" style="width: 24px; height: 24px; position: relative">
+            <div style="width: 21.50px; height: 18.50px; left: 1.25px; top: 2.75px; position: absolute; background: var(--text-primary, #2D2D2D)"></div>
+            <div style="width: 11.50px; height: 4.63px; left: 6.25px; top: 8.24px; position: absolute; background: var(--text-primary, #2D2D2D)"></div>
+            <div style="width: 7.50px; height: 1.50px; left: 1.25px; top: 15.75px; position: absolute; background: var(--text-primary, #2D2D2D)"></div>
+            <div style="width: 4.50px; height: 1.50px; left: 1.25px; top: 11.75px; position: absolute; background: var(--text-primary, #2D2D2D)"></div>
+            <div style="width: 24px; height: 24px; left: 0px; top: 0px; position: absolute; opacity: 0"></div>
+          </div>
+          <div style="justify-content: center; display: flex; flex-direction: column; color: var(--text-primary, #2D2D2D); font-size: 16px; font-family: Hind Siliguri; font-weight: 600; text-decoration: underline; line-height: 24px; word-wrap: break-word">আমাদের ইমেইল করুন</div>
+        </div>
+        <div style="align-self: stretch; justify-content: flex-start; align-items: flex-start; gap: 12px; display: inline-flex">
+          <div data-property-1="outline" style="width: 24px; height: 24px; position: relative">
+            <div style="width: 24px; height: 24px; left: 0px; top: 0px; position: absolute"></div>
+            <div style="width: 21.51px; height: 21.51px; left: 1.25px; top: 1.24px; position: absolute; background: var(--text-primary, #2D2D2D)"></div>
+            <div style="width: 11.52px; height: 11.53px; left: 6.24px; top: 6.23px; position: absolute; background: var(--text-primary, #2D2D2D)"></div>
+            <div style="width: 24px; height: 24px; left: 0px; top: 0px; position: absolute; opacity: 0"></div>
+          </div>
+          <div style="justify-content: center; display: flex; flex-direction: column; color: var(--text-primary, #2D2D2D); font-size: 16px; font-family: Hind Siliguri; font-weight: 600; text-decoration: underline; line-height: 24px; word-wrap: break-word">হোয়াটসঅ্যাপে আমাদের মেসেজ করুন</div>
+        </div>
+      </div>
+      <div style="align-self: stretch; flex-direction: column; justify-content: center; align-items: flex-start; gap: 24px; display: flex">
+        <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: flex">
+          <div style="justify-content: center; display: flex; flex-direction: column; color: var(--text-primary, #2D2D2D); font-size: 24px; font-family: Hind Siliguri; font-weight: 600; line-height: 32px; word-wrap: break-word">আমাদের কল করুন</div>
+          <div style="justify-content: center; display: flex; flex-direction: column; color: var(--text-secondary, #414651); font-size: 16px; font-family: Hind Siliguri; font-weight: 500; line-height: 24px; word-wrap: break-word">আমাদের টিমকে কল করুন (সোম-বৃহঃ সকাল ৮:০০ থেকে রাত ৮:০০ পর্যন্ত)</div>
+        </div>
+        <div style="align-self: stretch; justify-content: flex-start; align-items: flex-start; gap: 12px; display: inline-flex">
+          <div data-property-1="outline" style="width: 24px; height: 24px; position: relative">
+            <div style="width: 21.46px; height: 21.50px; left: 1.25px; top: 1.25px; position: absolute; background: var(--text-primary, #2D2D2D)"></div>
+            <div style="width: 6.50px; height: 1.50px; left: 14.75px; top: 5.25px; position: absolute; background: var(--text-primary, #2D2D2D)"></div>
+            <div style="width: 1.50px; height: 6.50px; left: 17.25px; top: 2.75px; position: absolute; background: var(--text-tertiary, #828896)"></div>
+            <div style="width: 24px; height: 24px; left: 0px; top: 0px; position: absolute; opacity: 0"></div>
+          </div>
+          <div style="justify-content: center; display: flex; flex-direction: column; color: var(--text-primary, #2D2D2D); font-size: 16px; font-family: Hind Siliguri; font-weight: 600; text-decoration: underline; line-height: 24px; word-wrap: break-word">(+1) 555 - 000 - 0000</div>
+        </div>
+      </div>
+      <div style="align-self: stretch; flex-direction: column; justify-content: center; align-items: flex-start; gap: 24px; display: flex">
+        <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: flex">
+          <div style="align-self: stretch; justify-content: center; display: flex; flex-direction: column; color: var(--text-primary, #2D2D2D); font-size: 24px; font-family: Hind Siliguri; font-weight: 600; line-height: 32px; word-wrap: break-word">অফিস ভিজিট করুন</div>
+          <div style="align-self: stretch; justify-content: center; display: flex; flex-direction: column; color: var(--text-secondary, #414651); font-size: 16px; font-family: Hind Siliguri; font-weight: 500; line-height: 24px; word-wrap: break-word">সরাসরি আমাদের ঢাকা প্রধান কার্যালয়ে যোগাযোগ করুন</div>
+        </div>
+        <div style="align-self: stretch; justify-content: flex-start; align-items: flex-start; gap: 12px; display: inline-flex">
+          <div data-property-1="outline" style="width: 24px; height: 24px; position: relative">
+            <div style="width: 7.74px; height: 7.73px; left: 8.13px; top: 6.44px; position: absolute; background: var(--text-primary, #2D2D2D)"></div>
+            <div style="width: 18.76px; height: 21.51px; left: 2.62px; top: 1.25px; position: absolute; background: var(--text-primary, #2D2D2D)"></div>
+            <div style="width: 24px; height: 24px; left: 0px; top: 0px; position: absolute; opacity: 0"></div>
+          </div>
+          <div style="justify-content: center; display: flex; flex-direction: column; color: var(--text-primary, #2D2D2D); font-size: 16px; font-family: Hind Siliguri; font-weight: 600; text-decoration: underline; line-height: 24px; word-wrap: break-word">৪৮, ওয়াল স্ট্রিট, ব্রিক ম্যানশন, শিকাগো, ইলিনয়</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 1440px; padding-top: 40px; padding-bottom: 20px; padding-left: 100px; padding-right: 100px; background: var(--bg-secondary, #F4F4F4); flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 28px; display: flex">
+    <div style="align-self: stretch; justify-content: space-between; align-items: flex-start; display: inline-flex">
+      <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 40px; display: inline-flex">
+        <img style="width: 108px; height: 36px" src="https://placehold.co/108x36" />
+        <div style="width: 392px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 20px; display: flex">
+          <div style="border-radius: 6px; justify-content: flex-start; align-items: center; gap: 12px; display: inline-flex">
+            <div style="width: 24px; height: 24px; position: relative; overflow: hidden">
+              <div style="width: 21px; height: 16.50px; left: 1.50px; top: 3.75px; position: absolute; background: var(--brand-solid, #007EBD)"></div>
+            </div>
+            <div style="color: var(--text-primary, #2D2D2D); font-size: 16px; font-family: Onest; font-weight: 500; line-height: 24px; word-wrap: break-word">hello@koreshikhi.com</div>
+          </div>
+          <div style="border-radius: 6px; justify-content: flex-start; align-items: center; gap: 12px; display: inline-flex">
+            <div style="width: 24px; height: 24px; position: relative; overflow: hidden">
+              <div style="width: 21px; height: 21px; left: 1.50px; top: 1.50px; position: absolute; background: var(--brand-solid, #007EBD)"></div>
+            </div>
+            <div style="color: var(--text-primary, #2D2D2D); font-size: 16px; font-family: Li Ador Noirrit; font-weight: 600; line-height: 24px; word-wrap: break-word">+৮৮ ০১২৩৪৫৬৭৮৯০</div>
+          </div>
+          <div style="border-radius: 6px; justify-content: flex-start; align-items: center; gap: 12px; display: inline-flex">
+            <div style="width: 24px; height: 24px; position: relative; overflow: hidden">
+              <div style="width: 16.50px; height: 20.25px; left: 3.75px; top: 2.25px; position: absolute; background: var(--brand-solid, #007EBD)"></div>
+            </div>
+            <div style="color: var(--text-primary, #2D2D2D); font-size: 16px; font-family: Hind Siliguri; font-weight: 500; line-height: 24px; word-wrap: break-word">ঢাকা, বাংলাদেশ</div>
+          </div>
+        </div>
+      </div>
+      <div style="width: 807px; justify-content: flex-start; align-items: flex-start; gap: 30px; display: flex">
+        <div style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: inline-flex">
+          <div style="align-self: stretch; color: var(--text-primary, #2D2D2D); font-size: 20px; font-family: Hind Siliguri; font-weight: 600; line-height: 32px; word-wrap: break-word">কুইক লিংক </div>
+          <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
+            <div style="align-self: stretch; color: var(--text-secondary, #414651); font-size: 18px; font-family: Hind Siliguri; font-weight: 500; line-height: 28px; word-wrap: break-word">লাইভ ব্যাচ</div>
+            <div style="align-self: stretch; color: var(--text-secondary, #414651); font-size: 18px; font-family: Hind Siliguri; font-weight: 500; line-height: 28px; word-wrap: break-word">কোর্স সমূহ </div>
+            <div style="align-self: stretch; color: var(--text-secondary, #414651); font-size: 18px; font-family: Hind Siliguri; font-weight: 500; line-height: 28px; word-wrap: break-word">স্টুডেন্ট রিভিউ </div>
+            <div style="align-self: stretch; color: var(--text-secondary, #414651); font-size: 18px; font-family: Hind Siliguri; font-weight: 500; line-height: 28px; word-wrap: break-word">প্রশ্নোত্তর </div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: inline-flex">
+          <div style="align-self: stretch; color: var(--text-primary, #2D2D2D); font-size: 20px; font-family: Hind Siliguri; font-weight: 600; line-height: 32px; word-wrap: break-word">কোম্পানি </div>
+          <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
+            <div style="align-self: stretch; color: var(--text-secondary, #414651); font-size: 18px; font-family: Hind Siliguri; font-weight: 500; line-height: 28px; word-wrap: break-word">আমাদের সম্পর্কে </div>
+            <div style="align-self: stretch; color: var(--text-secondary, #414651); font-size: 18px; font-family: Hind Siliguri; font-weight: 500; line-height: 28px; word-wrap: break-word">রিফান্ড পলিসি </div>
+            <div style="align-self: stretch; color: var(--text-secondary, #414651); font-size: 18px; font-family: Hind Siliguri; font-weight: 500; line-height: 28px; word-wrap: break-word">প্রাইভেসি পলিসি </div>
+          </div>
+        </div>
+        <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: inline-flex">
+          <div style="width: 196px; color: var(--text-primary, #2D2D2D); font-size: 20px; font-family: Hind Siliguri; font-weight: 600; line-height: 32px; word-wrap: break-word">কমিউনিটি -এর সাথে কানেক্টেড থাকতে</div>
+          <div style="justify-content: flex-start; align-items: flex-start; gap: 14px; display: inline-flex">
+            <div style="padding: 14px; background: var(--base-White, white); border-radius: 8px; outline: 1px var(--border-secondary, #E9EAEB) solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
+              <div style="width: 24px; height: 24px; position: relative; overflow: hidden">
+                <div style="width: 24px; height: 23.85px; left: 0px; top: 0px; position: absolute; background: var(--brand-solid, #007EBD)"></div>
+              </div>
+            </div>
+            <div style="padding: 14px; background: var(--base-White, white); border-radius: 8px; outline: 1px var(--border-secondary, #E9EAEB) solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
+              <div style="width: 24px; height: 24px; position: relative; overflow: hidden">
+                <div style="width: 24px; height: 19.50px; left: 0px; top: 2.25px; position: absolute; background: var(--brand-solid, #007EBD)"></div>
+              </div>
+            </div>
+            <div style="padding: 14px; background: var(--base-White, white); border-radius: 8px; outline: 1px var(--border-secondary, #E9EAEB) solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
+              <div style="width: 24px; height: 24px; position: relative; overflow: hidden">
+                <div style="width: 24px; height: 24px; left: 0px; top: 0px; position: absolute; background: var(--brand-solid, #007EBD)"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 0px; outline: 1px var(--border-primary, #D5D7DA) solid; outline-offset: -0.50px"></div>
+    <div style="align-self: stretch; text-align: center; color: var(--text-secondary, #414651); font-size: 14px; font-family: Onest; font-weight: 500; line-height: 20px; word-wrap: break-word">© 2025 Koreshikhi. All rights reserved.</div>
+  </div>
+  <div style="left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+    <div style="width: 1440px; padding-top: 8px; padding-bottom: 8px; background: var(--brand-solid, #007EBD); justify-content: center; align-items: center; gap: 12px; display: inline-flex">
+      <div style="color: var(--text-invert, white); font-size: 14px; font-family: Hind Siliguri; font-weight: 500; line-height: 20px; word-wrap: break-word">ফ্রি কোর্স 🌟 সেল শেষ হতে চলেছে, এখনই নিন</div>
+      <div style="width: 20px; height: 20px; position: relative; overflow: hidden">
+        <div style="width: 12px; height: 14px; left: 3px; top: 16px; position: absolute; transform: rotate(-90deg); transform-origin: top left; background: white"></div>
+      </div>
+    </div>
+    <div data-platform="Default" data-states="Logged Out" style="width: 1440px; height: 68px; padding-left: 100px; padding-right: 100px; background: var(--base-White, white); box-shadow: 0px 1px 2px rgba(10, 13, 18, 0.05); justify-content: space-between; align-items: center; display: inline-flex">
+      <img style="width: 116px; height: 36px" src="https://placehold.co/116x36" />
+      <div style="height: 28px; justify-content: center; align-items: center; gap: 20px; display: flex">
+        <div data-property-1="Regular" style="justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="color: var(--text-secondary, #414651); font-size: 16px; font-family: Hind Siliguri; font-weight: 500; line-height: 24px; word-wrap: break-word">হোম</div>
+        </div>
+        <div data-property-1="Regular" style="justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="color: var(--text-secondary, #414651); font-size: 16px; font-family: Hind Siliguri; font-weight: 500; line-height: 24px; word-wrap: break-word">সকল কোর্স</div>
+        </div>
+        <div data-property-1="Regular" style="justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="color: var(--text-secondary, #414651); font-size: 16px; font-family: Hind Siliguri; font-weight: 500; line-height: 24px; word-wrap: break-word">ব্লগ</div>
+        </div>
+        <div data-property-1="Active" style="justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="color: var(--brand-solid, #007EBD); font-size: 16px; font-family: Hind Siliguri; font-weight: 700; line-height: 24px; word-wrap: break-word">যোগাযোগ</div>
+        </div>
+        <div data-property-1="Regular" style="justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="color: var(--text-secondary, #414651); font-size: 16px; font-family: Hind Siliguri; font-weight: 500; line-height: 24px; word-wrap: break-word">আমাদের সম্পর্কে</div>
+        </div>
+      </div>
+      <div style="justify-content: flex-end; align-items: center; gap: 12px; display: flex">
+        <div style="padding-left: 8px; padding-right: 8px; justify-content: flex-start; align-items: center; gap: 8px; display: flex">
+          <div style="padding: 10px; background: var(--brand-primary, #E6F2F8); overflow: hidden; border-radius: 100px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+            <div style="width: 4.29px; height: 4.29px; background: var(--brand-solid, #007EBD)"></div>
+            <div style="width: 7.28px; height: 7.29px; background: var(--brand-solid, #007EBD)"></div>
+            <div style="width: 7.79px; height: 12.58px; background: var(--brand-solid, #007EBD)"></div>
+            <div style="width: 10.31px; height: 6.63px; background: var(--brand-solid, #007EBD)"></div>
+            <div style="width: 20px; height: 20px; transform: rotate(-180deg); transform-origin: top left; opacity: 0"></div>
+          </div>
+          <div style="width: 120px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; color: var(--text-tertiary, #828896); font-size: 12px; font-family: Hind Siliguri; font-weight: 400; line-height: 18px; word-wrap: break-word">কল করুন 24/7</div>
+            <div style="align-self: stretch; color: var(--text-primary, #2D2D2D); font-size: 16px; font-family: Hind Siliguri; font-weight: 600; line-height: 24px; word-wrap: break-word">+88 01234567890</div>
+          </div>
+        </div>
+        <div style="width: 235px; padding-left: 8px; padding-right: 8px; padding-top: 6px; padding-bottom: 6px; background: var(--bg-secondary, #F4F4F4); border-radius: 100px; justify-content: flex-start; align-items: center; gap: 8px; display: flex">
+          <div data-platform="Deepto" data-state="Default" style="width: 20px; height: 20px; position: relative; overflow: hidden">
+            <div style="width: 17.91px; height: 17.90px; left: 1.05px; top: 1.05px; position: absolute; background: var(--text-primary, #2D2D2D)"></div>
+          </div>
+          <div style="color: var(--text-quaternary, #A4A7AE); font-size: 14px; font-family: Hind Siliguri; font-weight: 400; line-height: 20px; word-wrap: break-word">কোর্স সার্চ করুন...</div>
+        </div>
+        <div style="justify-content: flex-start; align-items: center; display: flex">
+          <div style="height: 36px; padding-top: 8px; padding-bottom: 8px; padding-left: 8px; flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+            <div data-icon-only="False" data-☑️-state="Default" data-⚙️-type="Primary" data-⛔-destructive="False" data-➡️-tail-icon="false" data-⬅️-lead-icon="false" data-📏-size="Small" data-🟢dot="false" style="height: 36px; padding-left: 12px; padding-right: 12px; background: var(--brand-solid, #007EBD); overflow: hidden; border-radius: 8px; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: var(--text-invert, white); font-size: 16px; font-family: Hind Siliguri; font-weight: 500; line-height: 24px; word-wrap: break-word">সাইন ইন</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
