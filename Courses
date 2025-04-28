@@ -1,0 +1,509 @@
+<div style="width: 1440px; position: relative; background: var(--base-White, white); overflow: hidden; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+  <div style="align-self: stretch; padding-top: 160px; padding-bottom: 60px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 32px; display: flex">
+    <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: center; gap: 24px; display: flex">
+      <div style="align-self: stretch; justify-content: center; align-items: center; gap: 12px; display: inline-flex">
+        <img style="width: 56px; height: 56px" src="https://placehold.co/56x56" />
+        <div style="text-align: center; color: var(--text-primary, #2D2D2D); font-size: 44px; font-family: Hind Siliguri; font-weight: 600; line-height: 56px; word-wrap: break-word">আমাদের কোর্সগুলো</div>
+        <div style="width: 36.67px; height: 26.07px; transform: rotate(173deg); transform-origin: top left; background: var(--brand-secondary, #96CAE4)"></div>
+        <div style="width: 38.65px; height: 14.86px; transform: rotate(173deg); transform-origin: top left; background: var(--brand-secondary, #96CAE4)"></div>
+        <div style="width: 21.81px; height: 24.82px; transform: rotate(173deg); transform-origin: top left; background: var(--brand-secondary, #96CAE4)"></div>
+      </div>
+    </div>
+    <div style="width: 1240px; padding: 24px; background: var(--bg-secondary, #F4F4F4); border-radius: 28px; justify-content: flex-start; align-items: center; gap: 24px; display: inline-flex; flex-wrap: wrap; align-content: center">
+      <div style="width: 381.33px; padding: 20px; background: var(--bg-primary, white); box-shadow: 2px 12px 28px rgba(0, 0, 0, 0.10); border-radius: 28px; outline: 1px var(--border-secondary, #E9EAEB) solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+        <img style="align-self: stretch; height: 204.10px; padding-left: 237px; padding-right: 237px; padding-top: 123px; padding-bottom: 123px; border-radius: 20px; justify-content: center; align-items: center; gap: 10px; display: inline-flex" src="https://placehold.co/341x204" />
+        <div style="justify-content: flex-start; align-items: flex-start; gap: 8px; display: inline-flex">
+          <div style="padding-top: 6px; padding-bottom: 6px; padding-left: 8px; padding-right: 12px; background: var(--bg-secondary, #F4F4F4); border-radius: 8px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+            <img style="width: 18px; height: 18px" src="https://placehold.co/18x18" />
+            <div style="color: var(--text-secondary, #414651); font-size: 12px; font-family: Hind Siliguri; font-weight: 600; line-height: 18px; word-wrap: break-word">ব্যাচ ০২</div>
+          </div>
+          <div style="padding-top: 6px; padding-bottom: 6px; padding-left: 8px; padding-right: 12px; background: var(--bg-secondary, #F4F4F4); border-radius: 8px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+            <img style="width: 18px; height: 18px" src="https://placehold.co/18x18" />
+            <div style="color: var(--text-secondary, #414651); font-size: 12px; font-family: Hind Siliguri; font-weight: 600; line-height: 18px; word-wrap: break-word">৩৬ সিট বাকি</div>
+          </div>
+          <div style="padding-top: 6px; padding-bottom: 6px; padding-left: 8px; padding-right: 12px; background: var(--bg-secondary, #F4F4F4); border-radius: 8px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+            <img style="width: 18px; height: 18px" src="https://placehold.co/18x18" />
+            <div style="color: var(--text-secondary, #414651); font-size: 12px; font-family: Hind Siliguri; font-weight: 600; line-height: 18px; word-wrap: break-word">৭ দিন বাকি</div>
+          </div>
+        </div>
+        <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 12px; display: flex">
+          <div style="align-self: stretch; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+            <div style="flex: 1 1 0; color: var(--text-primary, #2D2D2D); font-size: 20px; font-family: Onest; font-weight: 600; line-height: 32px; word-wrap: break-word">Full Stack Web Development with MERN Stack</div>
+          </div>
+          <div style="align-self: stretch; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+            <div style="flex: 1 1 0; color: #4C4C4D; font-size: 16px; font-family: Hind Siliguri; font-weight: 400; line-height: 24px; word-wrap: break-word">Node.js, Express, React ও MongoDB শিখে সম্পূর্ণ ওয়েব অ্যাপ তৈরি করতে শিখুন। বাস্তব অভিজ্ঞতা অর্জনের জন্য লাইভ প্রোজেক্ট ও প্র্যাকটিস সেশন থাকবে।</div>
+          </div>
+        </div>
+        <div data-icon-only="False" data-☑️-state="Default" data-⚙️-type="Secondary" data-⛔-destructive="False" data-➡️-tail-icon="true" data-⬅️-lead-icon="false" data-📏-size="Medium" data-🟢dot="false" style="align-self: stretch; height: 40px; padding-left: 16px; padding-right: 16px; background: var(--bg-secondary, #F4F4F4); box-shadow: 0px 1px 2px rgba(10, 13, 18, 0.05); overflow: hidden; border-radius: 12px; outline: 1px var(--border-primary, #D5D7DA) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+          <div style="justify-content: center; display: flex; flex-direction: column; color: var(--text-secondary, #414651); font-size: 14px; font-family: Hind Siliguri; font-weight: 500; line-height: 20px; word-wrap: break-word">বিস্তারিত দেখুন</div>
+          <div data-property-1="linear" style="width: 20px; height: 20px; position: relative">
+            <div style="width: 5.06px; height: 10.12px; left: 12.02px; top: 4.94px; position: absolute; outline: 1.50px var(--text-secondary, #414651) solid; outline-offset: -0.75px"></div>
+            <div style="width: 20px; height: 20px; left: 20px; top: 20px; position: absolute; transform: rotate(-180deg); transform-origin: top left; opacity: 0"></div>
+          </div>
+        </div>
+      </div>
+      <div style="width: 381.33px; padding: 20px; background: var(--bg-primary, white); box-shadow: 2px 12px 28px rgba(0, 0, 0, 0.10); border-radius: 28px; outline: 1px var(--border-secondary, #E9EAEB) solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+        <div style="align-self: stretch; height: 204.10px; padding-left: 237px; padding-right: 237px; padding-top: 123px; padding-bottom: 123px; background: linear-gradient(0deg, rgba(0, 0, 0, 0.20) 0%, rgba(0, 0, 0, 0.20) 100%); border-radius: 20px; background-image: url(https://placehold.co/341x204); justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+          <div style="width: 92.74px; height: 92.74px; padding: 7.27px; position: relative; background: linear-gradient(135deg, rgba(255, 255, 255, 0.60) 0%, rgba(255, 255, 255, 0.30) 100%); border-radius: 363.68px; outline: 3.36px rgba(255, 255, 255, 0.60) solid; justify-content: center; align-items: center; gap: 36.37px; display: flex">
+            <div style="width: 36.37px; height: 36.37px; left: 29.09px; top: 29.09px; position: absolute; background: linear-gradient(150deg, #4DEC7D 0%, #14D04E 100%), #1B7564; border-radius: 9999px"></div>
+            <div style="width: 78.19px; height: 78.19px; background: linear-gradient(150deg, #4DEC7D 0%, #14D04E 100%), white; box-shadow: 0px 0px 29.094463348388672px 10.910423278808594px rgba(255, 255, 255, 0.18) inset"></div>
+          </div>
+        </div>
+        <div style="justify-content: flex-start; align-items: flex-start; gap: 8px; display: inline-flex">
+          <div style="padding-top: 6px; padding-bottom: 6px; padding-left: 8px; padding-right: 12px; background: var(--bg-secondary, #F4F4F4); border-radius: 8px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+            <img style="width: 18px; height: 18px" src="https://placehold.co/18x18" />
+            <div style="color: var(--text-secondary, #414651); font-size: 12px; font-family: Hind Siliguri; font-weight: 600; line-height: 18px; word-wrap: break-word">ব্যাচ ০৫</div>
+          </div>
+          <div style="padding-top: 6px; padding-bottom: 6px; padding-left: 8px; padding-right: 12px; background: var(--bg-secondary, #F4F4F4); border-radius: 8px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+            <img style="width: 18px; height: 18px" src="https://placehold.co/18x18" />
+            <div style="color: var(--text-secondary, #414651); font-size: 12px; font-family: Hind Siliguri; font-weight: 600; line-height: 18px; word-wrap: break-word">২৪ সিট বাকি</div>
+          </div>
+          <div style="padding-top: 6px; padding-bottom: 6px; padding-left: 8px; padding-right: 12px; background: var(--bg-secondary, #F4F4F4); border-radius: 8px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+            <img style="width: 18px; height: 18px" src="https://placehold.co/18x18" />
+            <div style="color: var(--text-secondary, #414651); font-size: 12px; font-family: Hind Siliguri; font-weight: 600; line-height: 18px; word-wrap: break-word">০৭ দিন বাকি</div>
+          </div>
+        </div>
+        <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 12px; display: flex">
+          <div style="align-self: stretch; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+            <div style="flex: 1 1 0; color: var(--text-primary, #2D2D2D); font-size: 20px; font-family: Onest; font-weight: 600; line-height: 32px; word-wrap: break-word">UI/UX Design Masterclass with Figma & Adobe XD</div>
+          </div>
+          <div style="align-self: stretch; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+            <div style="flex: 1 1 0; color: #4C4C4D; font-size: 16px; font-family: Hind Siliguri; font-weight: 400; line-height: 24px; word-wrap: break-word">ব্যবহারকারীদের জন্য দৃষ্টিনন্দন ও কার্যকর ডিজাইন তৈরির কৌশল শিখুন। Figma, Adobe XD ও UX Research সম্পর্কে বিস্তারিত ধারণা পাবেন।</div>
+          </div>
+        </div>
+        <div data-icon-only="False" data-☑️-state="Default" data-⚙️-type="Secondary" data-⛔-destructive="False" data-➡️-tail-icon="true" data-⬅️-lead-icon="false" data-📏-size="Medium" data-🟢dot="false" style="align-self: stretch; height: 40px; padding-left: 16px; padding-right: 16px; background: var(--bg-secondary, #F4F4F4); box-shadow: 0px 1px 2px rgba(10, 13, 18, 0.05); overflow: hidden; border-radius: 12px; outline: 1px var(--border-primary, #D5D7DA) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+          <div style="justify-content: center; display: flex; flex-direction: column; color: var(--text-secondary, #414651); font-size: 14px; font-family: Hind Siliguri; font-weight: 500; line-height: 20px; word-wrap: break-word">বিস্তারিত দেখুন</div>
+          <div data-property-1="linear" style="width: 20px; height: 20px; position: relative">
+            <div style="width: 5.06px; height: 10.12px; left: 12.02px; top: 4.94px; position: absolute; outline: 1.50px var(--text-secondary, #414651) solid; outline-offset: -0.75px"></div>
+            <div style="width: 20px; height: 20px; left: 20px; top: 20px; position: absolute; transform: rotate(-180deg); transform-origin: top left; opacity: 0"></div>
+          </div>
+        </div>
+      </div>
+      <div style="width: 381.33px; padding: 20px; background: var(--bg-primary, white); box-shadow: 2px 12px 28px rgba(0, 0, 0, 0.10); border-radius: 28px; outline: 1px var(--border-secondary, #E9EAEB) solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+        <img style="align-self: stretch; height: 204.10px; padding-left: 237px; padding-right: 237px; padding-top: 123px; padding-bottom: 123px; border-radius: 20px; justify-content: center; align-items: center; gap: 10px; display: inline-flex" src="https://placehold.co/341x204" />
+        <div style="justify-content: flex-start; align-items: flex-start; gap: 8px; display: inline-flex">
+          <div style="padding-top: 6px; padding-bottom: 6px; padding-left: 8px; padding-right: 12px; background: var(--bg-secondary, #F4F4F4); border-radius: 8px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+            <img style="width: 18px; height: 18px" src="https://placehold.co/18x18" />
+            <div style="color: var(--text-secondary, #414651); font-size: 12px; font-family: Hind Siliguri; font-weight: 600; line-height: 18px; word-wrap: break-word">ব্যাচ ০৭</div>
+          </div>
+          <div style="padding-top: 6px; padding-bottom: 6px; padding-left: 8px; padding-right: 12px; background: var(--bg-secondary, #F4F4F4); border-radius: 8px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+            <img style="width: 18px; height: 18px" src="https://placehold.co/18x18" />
+            <div style="color: var(--text-secondary, #414651); font-size: 12px; font-family: Hind Siliguri; font-weight: 600; line-height: 18px; word-wrap: break-word">০৮ সিট বাকি</div>
+          </div>
+          <div style="padding-top: 6px; padding-bottom: 6px; padding-left: 8px; padding-right: 12px; background: var(--bg-secondary, #F4F4F4); border-radius: 8px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+            <img style="width: 18px; height: 18px" src="https://placehold.co/18x18" />
+            <div style="color: var(--text-secondary, #414651); font-size: 12px; font-family: Hind Siliguri; font-weight: 600; line-height: 18px; word-wrap: break-word">০৩ দিন বাকি</div>
+          </div>
+        </div>
+        <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 12px; display: flex">
+          <div style="align-self: stretch; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+            <div style="flex: 1 1 0; color: var(--text-primary, #2D2D2D); font-size: 20px; font-family: Onest; font-weight: 600; line-height: 32px; word-wrap: break-word">Robotics & Arduino Programming for Kids (Advanced)</div>
+          </div>
+          <div style="align-self: stretch; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+            <div style="flex: 1 1 0; color: #4C4C4D; font-size: 16px; font-family: Hind Siliguri; font-weight: 400; line-height: 24px; word-wrap: break-word">Python ব্যবহার করে ডাটা এনালাইসিস, ভিজুয়ালাইজেশন এবং মেশিন লার্নিং মডেল তৈরি করতে শিখুন। বাস্তব জীবনের ডাটা প্রোজেক্টের মাধ্যমে দক্ষতা বাড়ান।</div>
+          </div>
+        </div>
+        <div data-icon-only="False" data-☑️-state="Default" data-⚙️-type="Secondary" data-⛔-destructive="False" data-➡️-tail-icon="true" data-⬅️-lead-icon="false" data-📏-size="Medium" data-🟢dot="false" style="align-self: stretch; height: 40px; padding-left: 16px; padding-right: 16px; background: var(--bg-secondary, #F4F4F4); box-shadow: 0px 1px 2px rgba(10, 13, 18, 0.05); overflow: hidden; border-radius: 12px; outline: 1px var(--border-primary, #D5D7DA) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+          <div style="justify-content: center; display: flex; flex-direction: column; color: var(--text-secondary, #414651); font-size: 14px; font-family: Hind Siliguri; font-weight: 500; line-height: 20px; word-wrap: break-word">বিস্তারিত দেখুন</div>
+          <div data-property-1="linear" style="width: 20px; height: 20px; position: relative">
+            <div style="width: 5.06px; height: 10.12px; left: 12.02px; top: 4.94px; position: absolute; outline: 1.50px var(--text-secondary, #414651) solid; outline-offset: -0.75px"></div>
+            <div style="width: 20px; height: 20px; left: 20px; top: 20px; position: absolute; transform: rotate(-180deg); transform-origin: top left; opacity: 0"></div>
+          </div>
+        </div>
+      </div>
+      <div style="width: 381.33px; padding: 20px; background: var(--bg-primary, white); box-shadow: 2px 12px 28px rgba(0, 0, 0, 0.10); border-radius: 28px; outline: 1px var(--border-secondary, #E9EAEB) solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+        <div style="align-self: stretch; height: 204.10px; padding-left: 237px; padding-right: 237px; padding-top: 123px; padding-bottom: 123px; background: linear-gradient(0deg, rgba(0, 0, 0, 0.20) 0%, rgba(0, 0, 0, 0.20) 100%); border-radius: 20px; background-image: url(https://placehold.co/341x204); justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+          <div style="width: 92.74px; height: 92.74px; padding: 7.27px; position: relative; background: linear-gradient(135deg, rgba(255, 255, 255, 0.60) 0%, rgba(255, 255, 255, 0.30) 100%); border-radius: 363.68px; outline: 3.36px rgba(255, 255, 255, 0.60) solid; justify-content: center; align-items: center; gap: 36.37px; display: flex">
+            <div style="width: 36.37px; height: 36.37px; left: 29.09px; top: 29.09px; position: absolute; background: linear-gradient(150deg, #4DEC7D 0%, #14D04E 100%), #1B7564; border-radius: 9999px"></div>
+            <div style="width: 78.19px; height: 78.19px; background: linear-gradient(150deg, #4DEC7D 0%, #14D04E 100%), white; box-shadow: 0px 0px 29.094463348388672px 10.910423278808594px rgba(255, 255, 255, 0.18) inset"></div>
+          </div>
+        </div>
+        <div style="justify-content: flex-start; align-items: flex-start; gap: 8px; display: inline-flex">
+          <div style="padding-top: 6px; padding-bottom: 6px; padding-left: 8px; padding-right: 12px; background: var(--bg-secondary, #F4F4F4); border-radius: 8px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+            <img style="width: 18px; height: 18px" src="https://placehold.co/18x18" />
+            <div style="color: var(--text-secondary, #414651); font-size: 12px; font-family: Hind Siliguri; font-weight: 600; line-height: 18px; word-wrap: break-word">ব্যাচ ২৩</div>
+          </div>
+          <div style="padding-top: 6px; padding-bottom: 6px; padding-left: 8px; padding-right: 12px; background: var(--bg-secondary, #F4F4F4); border-radius: 8px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+            <img style="width: 18px; height: 18px" src="https://placehold.co/18x18" />
+            <div style="color: var(--text-secondary, #414651); font-size: 12px; font-family: Hind Siliguri; font-weight: 600; line-height: 18px; word-wrap: break-word">৮ সিট বাকি</div>
+          </div>
+          <div style="padding-top: 6px; padding-bottom: 6px; padding-left: 8px; padding-right: 12px; background: var(--bg-secondary, #F4F4F4); border-radius: 8px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+            <img style="width: 18px; height: 18px" src="https://placehold.co/18x18" />
+            <div style="color: var(--text-secondary, #414651); font-size: 12px; font-family: Hind Siliguri; font-weight: 600; line-height: 18px; word-wrap: break-word">৪ দিন বাকি</div>
+          </div>
+        </div>
+        <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 12px; display: flex">
+          <div style="align-self: stretch; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+            <div style="flex: 1 1 0; color: var(--text-primary, #2D2D2D); font-size: 20px; font-family: Onest; font-weight: 600; line-height: 32px; word-wrap: break-word">Coding for Kids - Fun with Scratch & Python</div>
+          </div>
+          <div style="align-self: stretch; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+            <div style="flex: 1 1 0; color: #4C4C4D; font-size: 16px; font-family: Hind Siliguri; font-weight: 400; line-height: 24px; word-wrap: break-word">হ্যাকিং ও সাইবার নিরাপত্তার মৌলিক বিষয়গুলো শিখুন এবং বাস্তব উদাহরণ ও প্র্যাকটিসের মাধ্যমে সিকিউরিটি এনালিস্ট হিসেবে দক্ষতা অর্জন করুন।</div>
+          </div>
+        </div>
+        <div data-icon-only="False" data-☑️-state="Default" data-⚙️-type="Secondary" data-⛔-destructive="False" data-➡️-tail-icon="true" data-⬅️-lead-icon="false" data-📏-size="Medium" data-🟢dot="false" style="align-self: stretch; height: 40px; padding-left: 16px; padding-right: 16px; background: var(--bg-secondary, #F4F4F4); box-shadow: 0px 1px 2px rgba(10, 13, 18, 0.05); overflow: hidden; border-radius: 12px; outline: 1px var(--border-primary, #D5D7DA) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+          <div style="justify-content: center; display: flex; flex-direction: column; color: var(--text-secondary, #414651); font-size: 14px; font-family: Hind Siliguri; font-weight: 500; line-height: 20px; word-wrap: break-word">বিস্তারিত দেখুন</div>
+          <div data-property-1="linear" style="width: 20px; height: 20px; position: relative">
+            <div style="width: 5.06px; height: 10.12px; left: 12.02px; top: 4.94px; position: absolute; outline: 1.50px var(--text-secondary, #414651) solid; outline-offset: -0.75px"></div>
+            <div style="width: 20px; height: 20px; left: 20px; top: 20px; position: absolute; transform: rotate(-180deg); transform-origin: top left; opacity: 0"></div>
+          </div>
+        </div>
+      </div>
+      <div style="width: 381.33px; padding: 20px; background: var(--bg-primary, white); box-shadow: 2px 12px 28px rgba(0, 0, 0, 0.10); border-radius: 28px; outline: 1px var(--border-secondary, #E9EAEB) solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+        <img style="align-self: stretch; height: 204.10px; padding-left: 237px; padding-right: 237px; padding-top: 123px; padding-bottom: 123px; border-radius: 20px; justify-content: center; align-items: center; gap: 10px; display: inline-flex" src="https://placehold.co/341x204" />
+        <div style="justify-content: flex-start; align-items: flex-start; gap: 8px; display: inline-flex">
+          <div style="padding-top: 6px; padding-bottom: 6px; padding-left: 8px; padding-right: 12px; background: var(--bg-secondary, #F4F4F4); border-radius: 8px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+            <img style="width: 18px; height: 18px" src="https://placehold.co/18x18" />
+            <div style="color: var(--text-secondary, #414651); font-size: 12px; font-family: Hind Siliguri; font-weight: 600; line-height: 18px; word-wrap: break-word">ব্যাচ ৫</div>
+          </div>
+          <div style="padding-top: 6px; padding-bottom: 6px; padding-left: 8px; padding-right: 12px; background: var(--bg-secondary, #F4F4F4); border-radius: 8px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+            <img style="width: 18px; height: 18px" src="https://placehold.co/18x18" />
+            <div style="color: var(--text-secondary, #414651); font-size: 12px; font-family: Hind Siliguri; font-weight: 600; line-height: 18px; word-wrap: break-word">৬ সিট বাকি</div>
+          </div>
+          <div style="padding-top: 6px; padding-bottom: 6px; padding-left: 8px; padding-right: 12px; background: var(--bg-secondary, #F4F4F4); border-radius: 8px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+            <img style="width: 18px; height: 18px" src="https://placehold.co/18x18" />
+            <div style="color: var(--text-secondary, #414651); font-size: 12px; font-family: Hind Siliguri; font-weight: 600; line-height: 18px; word-wrap: break-word">৮ দিন বাকি</div>
+          </div>
+        </div>
+        <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 12px; display: flex">
+          <div style="align-self: stretch; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+            <div style="flex: 1 1 0; color: var(--text-primary, #2D2D2D); font-size: 20px; font-family: Onest; font-weight: 600; line-height: 32px; word-wrap: break-word">AI & Chatbot Development with OpenAI & Python</div>
+          </div>
+          <div style="align-self: stretch; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+            <div style="flex: 1 1 0; color: #4C4C4D; font-size: 16px; font-family: Hind Siliguri; font-weight: 400; line-height: 24px; word-wrap: break-word">OpenAI ও Machine Learning ব্যবহার করে কাস্টমাইজড চ্যাটবট ও এআই-চালিত অ্যাপ তৈরি করতে শিখুন। বাস্তব প্রোজেক্ট ও লাইভ ডেমোর মাধ্যমে এআই দক্ষতা বাড়ান।</div>
+          </div>
+        </div>
+        <div data-icon-only="False" data-☑️-state="Default" data-⚙️-type="Secondary" data-⛔-destructive="False" data-➡️-tail-icon="true" data-⬅️-lead-icon="false" data-📏-size="Medium" data-🟢dot="false" style="align-self: stretch; height: 40px; padding-left: 16px; padding-right: 16px; background: var(--bg-secondary, #F4F4F4); box-shadow: 0px 1px 2px rgba(10, 13, 18, 0.05); overflow: hidden; border-radius: 12px; outline: 1px var(--border-primary, #D5D7DA) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+          <div style="justify-content: center; display: flex; flex-direction: column; color: var(--text-secondary, #414651); font-size: 14px; font-family: Hind Siliguri; font-weight: 500; line-height: 20px; word-wrap: break-word">বিস্তারিত দেখুন</div>
+          <div data-property-1="linear" style="width: 20px; height: 20px; position: relative">
+            <div style="width: 5.06px; height: 10.12px; left: 12.02px; top: 4.94px; position: absolute; outline: 1.50px var(--text-secondary, #414651) solid; outline-offset: -0.75px"></div>
+            <div style="width: 20px; height: 20px; left: 20px; top: 20px; position: absolute; transform: rotate(-180deg); transform-origin: top left; opacity: 0"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 1440px; padding-left: 100px; padding-right: 100px; padding-top: 60px; padding-bottom: 60px; flex-direction: column; justify-content: center; align-items: flex-start; gap: 32px; display: flex">
+    <div style="align-self: stretch; height: 56px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 24px; display: flex">
+      <div style="align-self: stretch; justify-content: center; align-items: center; gap: 12px; display: inline-flex">
+        <img style="width: 56px; height: 56px" src="https://placehold.co/56x56" />
+        <div style="text-align: center; color: var(--text-primary, #2D2D2D); font-size: 44px; font-family: Hind Siliguri; font-weight: 600; line-height: 56px; word-wrap: break-word">আমাদের সব কোর্সে আপনি পাচ্ছেন</div>
+        <div style="width: 30.42px; height: 25.89px; transform: rotate(171deg); transform-origin: top left; background: var(--brand-secondary, #96CAE4)"></div>
+        <div style="width: 32.75px; height: 14.51px; transform: rotate(172deg); transform-origin: top left; background: var(--brand-secondary, #96CAE4)"></div>
+        <div style="width: 17.60px; height: 24.86px; transform: rotate(171deg); transform-origin: top left; background: var(--brand-secondary, #96CAE4)"></div>
+      </div>
+    </div>
+    <div style="align-self: stretch; padding: 24px; background: var(--bg-secondary, #F4F4F4); border-radius: 32px; justify-content: space-between; align-items: flex-start; display: inline-flex; flex-wrap: wrap; align-content: flex-start">
+      <div style="width: 381.33px; padding: 24px; background: var(--bg-primary, white); border-radius: 24px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: inline-flex">
+        <div style="width: 68px; height: 68px; position: relative; background: #F7F5FF; border-radius: 46.67px">
+          <div style="width: 56px; height: 56px; left: 6px; top: 6px; position: absolute; background: #FF7979; border-radius: 9999px"></div>
+          <div style="width: 34px; height: 34px; left: 17px; top: 17px; position: absolute; overflow: hidden">
+            <div style="width: 30.46px; height: 26.86px; left: 1.77px; top: 3.21px; position: absolute; background: white"></div>
+          </div>
+        </div>
+        <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
+          <div style="align-self: stretch; color: var(--text-primary, #2D2D2D); font-size: 24px; font-family: Hind Siliguri; font-weight: 600; line-height: 32px; word-wrap: break-word">যেকোনো জায়গা থেকে পড়ুন</div>
+          <div style="align-self: stretch; color: var(--text-secondary, #414651); font-size: 18px; font-family: Hind Siliguri; font-weight: 400; line-height: 28px; word-wrap: break-word">আন্তর্জাতিক শিক্ষার্থীদের জন্য আদর্শ। প্রায় ১০০% ভিসা অনুমোদনের হার থাকায় এটি সাধারণ শিক্ষার্থী এজেন্সির তুলনায় সহজ ও কার্যকর।</div>
+        </div>
+      </div>
+      <div style="width: 381.33px; padding: 24px; background: var(--bg-primary, white); border-radius: 24px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: inline-flex">
+        <div style="width: 68px; height: 68px; position: relative; background: #F7F5FF; border-radius: 46.67px">
+          <div style="width: 56px; height: 56px; left: 6px; top: 6px; position: absolute; background: #FF9A37; border-radius: 9999px"></div>
+          <div style="width: 32px; height: 32px; left: 18px; top: 18px; position: absolute; overflow: hidden">
+            <div style="width: 23.33px; height: 28.67px; left: 4.33px; top: 1.67px; position: absolute; background: white"></div>
+          </div>
+        </div>
+        <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
+          <div style="align-self: stretch; color: var(--text-primary, #2D2D2D); font-size: 24px; font-family: Hind Siliguri; font-weight: 600; line-height: 32px; word-wrap: break-word">দক্ষ শিক্ষকগণ</div>
+          <div style="align-self: stretch; color: var(--text-secondary, #414651); font-size: 18px; font-family: Hind Siliguri; font-weight: 400; line-height: 28px; word-wrap: break-word">আধুনিক শ্রেণিকক্ষের জন্য প্রমাণভিত্তিক শিক্ষাদান কৌশল শেখার সুযোগ, যা সহজবোধ্য স্ক্রিপ্ট ও ভিডিওসহ উপস্থাপিত হয়।</div>
+        </div>
+      </div>
+      <div style="width: 381.33px; padding: 24px; background: var(--bg-primary, white); border-radius: 24px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: inline-flex">
+        <div style="width: 68px; height: 68px; position: relative; background: #F7F5FF; border-radius: 46.67px">
+          <div style="width: 56px; height: 56px; left: 6px; top: 6px; position: absolute; background: #36C4FF; border-radius: 9999px"></div>
+          <div style="width: 34px; height: 34px; left: 17px; top: 17px; position: absolute; overflow: hidden">
+            <div style="width: 30.46px; height: 30.46px; left: 1.77px; top: 1.77px; position: absolute; background: white"></div>
+          </div>
+        </div>
+        <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
+          <div style="align-self: stretch; color: var(--text-primary, #2D2D2D); font-size: 24px; font-family: Hind Siliguri; font-weight: 600; line-height: 32px; word-wrap: break-word">রেকর্ডেড ও লাইভ ক্লাস</div>
+          <div style="align-self: stretch; color: var(--text-secondary, #414651); font-size: 18px; font-family: Hind Siliguri; font-weight: 400; line-height: 28px; word-wrap: break-word">লাইভ ক্লাসে শিক্ষক সরাসরি পাঠদান করেন, যেখানে শিক্ষার্থীরা অংশ নিতে পারেন এবং তাৎক্ষণিকভাবে প্রশ্ন করতে পারেন।</div>
+        </div>
+      </div>
+      <div style="width: 381.33px; padding: 24px; background: var(--bg-primary, white); border-radius: 24px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: inline-flex">
+        <div style="width: 68px; height: 68px; position: relative; background: #F7F5FF; border-radius: 46.67px">
+          <div style="width: 56px; height: 56px; left: 6px; top: 6px; position: absolute; background: #BC79FF; border-radius: 9999px"></div>
+          <div style="width: 34px; height: 34px; left: 17px; top: 17px; position: absolute; overflow: hidden; border-radius: 5px">
+            <div style="width: 29.04px; height: 30.46px; left: 3.19px; top: 1.77px; position: absolute; background: white"></div>
+          </div>
+        </div>
+        <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
+          <div style="align-self: stretch; color: var(--text-primary, #2D2D2D); font-size: 24px; font-family: Hind Siliguri; font-weight: 600; line-height: 32px; word-wrap: break-word">নোটস ও পিডিএফ</div>
+          <div style="align-self: stretch; color: var(--text-secondary, #414651); font-size: 18px; font-family: Hind Siliguri; font-weight: 400; line-height: 28px; word-wrap: break-word">Adobe Acrobat ও Adobe Reader-এ স্টিকি নোট টুল ব্যবহার করে ব্যবসায়িক পিডিএফ ফাইলের ওপর মন্তব্য করা যায়।</div>
+        </div>
+      </div>
+      <div style="width: 381.33px; padding: 24px; background: var(--bg-primary, white); border-radius: 24px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: inline-flex">
+        <div style="width: 68px; height: 68px; position: relative; background: #F7F5FF; border-radius: 46.67px">
+          <div style="width: 56px; height: 56px; left: 6px; top: 6px; position: absolute; background: #FF88DE; border-radius: 9999px"></div>
+          <div style="width: 34px; height: 34px; left: 17px; top: 17px; position: absolute; overflow: hidden; border-radius: 5px">
+            <div style="width: 21.96px; height: 30.46px; left: 6.02px; top: 1.77px; position: absolute; background: white"></div>
+          </div>
+        </div>
+        <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
+          <div style="align-self: stretch; color: var(--text-primary, #2D2D2D); font-size: 24px; font-family: Hind Siliguri; font-weight: 600; line-height: 32px; word-wrap: break-word">ক্লাস টেস্ট</div>
+          <div style="align-self: stretch; color: var(--text-secondary, #414651); font-size: 18px; font-family: Hind Siliguri; font-weight: 400; line-height: 28px; word-wrap: break-word">এক ঘণ্টার কম কিন্তু দুই ঘণ্টার বেশি নয় এমন লিখিত পরীক্ষা, যা একটি নির্দিষ্ট বিষয়ের ধারাবাহিক মূল্যায়নের অংশ।</div>
+        </div>
+      </div>
+      <div style="width: 381.33px; padding: 24px; background: var(--bg-primary, white); border-radius: 24px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: inline-flex">
+        <div style="width: 68px; height: 68px; position: relative; background: #F7F5FF; border-radius: 46.67px">
+          <div style="width: 56px; height: 56px; left: 6px; top: 6px; position: absolute; background: #86B6FF; border-radius: 9999px"></div>
+          <div style="width: 34px; height: 34px; left: 17px; top: 17px; position: absolute; overflow: hidden; border-radius: 5px">
+            <div style="width: 27.63px; height: 30.46px; left: 3.19px; top: 1.77px; position: absolute; background: white"></div>
+          </div>
+        </div>
+        <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
+          <div style="align-self: stretch; color: var(--text-primary, #2D2D2D); font-size: 24px; font-family: Hind Siliguri; font-weight: 600; line-height: 32px; word-wrap: break-word">অ্যাসাইনমেন্ট</div>
+          <div style="align-self: stretch; color: var(--text-secondary, #414651); font-size: 18px; font-family: Hind Siliguri; font-weight: 400; line-height: 28px; word-wrap: break-word">যখন কাউকে কোনো দায়িত্ব বা কাজ দেওয়া হয়, তখন সেটিকে অ্যাসাইনমেন্ট বলা হয়। এটি শিক্ষার ক্ষেত্রে নির্দিষ্ট কাজ বা প্রকল্পের রূপ নিতে পারে।</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 1440px; padding-left: 100px; padding-right: 100px; padding-top: 80px; padding-bottom: 80px; overflow: hidden; justify-content: space-between; align-items: flex-start; display: inline-flex">
+    <div style="width: 581px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 48px; display: inline-flex">
+      <div style="align-self: stretch; color: var(--text-primary, #2D2D2D); font-size: 56px; font-family: Hind Siliguri; font-weight: 600; line-height: 68px; word-wrap: break-word">কিভাবে শুরু করবো?</div>
+      <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 30px; display: flex">
+        <div style="align-self: stretch; justify-content: flex-start; align-items: center; gap: 24px; display: inline-flex">
+          <div style="opacity: 0.15; text-box-trim: trim-both; text-box-edge: cap alphabetic; color: #002B6B; font-size: 108px; font-family: Li Ador Noirrit; font-weight: 600; line-height: 129.60px; word-wrap: break-word">০১</div>
+          <div style="flex: 1 1 0; padding: 24px; background: var(--base-White, white); box-shadow: 20px 20px 40px rgba(0, 43, 107, 0.05); border-radius: 20px; outline: 1px var(--border-secondary, #E9EAEB) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 16px; display: flex">
+            <div style="padding: 16px; background: #E1E9FE; overflow: hidden; border-radius: 43px; justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="width: 24px; height: 24px; position: relative; overflow: hidden">
+                <div style="width: 6px; height: 18px; left: 4px; top: 3px; position: absolute; outline: 1.50px #0066FF solid; outline-offset: -0.75px"></div>
+                <div style="width: 10px; height: 5px; left: 10px; top: 9.50px; position: absolute; outline: 1.50px #0066FF solid; outline-offset: -0.75px"></div>
+              </div>
+            </div>
+            <div style="flex-direction: column; justify-content: center; align-items: flex-start; gap: 4px; display: inline-flex">
+              <div style="color: var(--text-primary, #2D2D2D); font-size: 24px; font-family: Hind Siliguri; font-weight: 600; line-height: 32px; word-wrap: break-word">রেজিস্ট্রেশন করে কোর্স শুরু করুন</div>
+              <div style="color: var(--text-secondary, #414651); font-size: 16px; font-family: Hind Siliguri; font-weight: 400; line-height: 24px; word-wrap: break-word">এখনই রেজিস্ট্রেশন করে কোর্স শুরু করুন।</div>
+            </div>
+          </div>
+        </div>
+        <div style="align-self: stretch; justify-content: flex-start; align-items: center; gap: 24px; display: inline-flex">
+          <div style="flex: 1 1 0; padding: 24px; background: var(--base-White, white); box-shadow: 20px 20px 40px rgba(0, 43, 107, 0.05); border-radius: 20px; outline: 1px var(--border-secondary, #E9EAEB) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 16px; display: flex">
+            <div style="padding: 16px; background: #FFEED2; overflow: hidden; border-radius: 43px; justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="width: 24px; height: 24px; position: relative; overflow: hidden">
+                <div style="width: 16.06px; height: 12.62px; left: 3px; top: 3.69px; position: absolute; outline: 1.50px #FF9900 solid; outline-offset: -0.75px"></div>
+                <div style="width: 0.60px; height: 3.66px; left: 8.46px; top: 16.30px; position: absolute; outline: 1.50px #FF9900 solid; outline-offset: -0.75px"></div>
+                <div style="width: 7.66px; height: 10.81px; left: 13.34px; top: 9.50px; position: absolute; outline: 1.50px #FF9900 solid; outline-offset: -0.75px"></div>
+              </div>
+            </div>
+            <div style="flex-direction: column; justify-content: center; align-items: flex-start; gap: 4px; display: inline-flex">
+              <div style="color: var(--text-primary, #2D2D2D); font-size: 24px; font-family: Hind Siliguri; font-weight: 600; line-height: 32px; word-wrap: break-word">অনলাইনে ক্লাস ও প্র্যাকটিস করুন</div>
+              <div style="color: var(--text-secondary, #414651); font-size: 16px; font-family: Hind Siliguri; font-weight: 400; line-height: 24px; word-wrap: break-word">অনলাইনে ক্লাসে যোগ দিয়ে প্র্যাকটিস করুন।</div>
+            </div>
+          </div>
+          <div style="opacity: 0.15; text-box-trim: trim-both; text-box-edge: cap alphabetic; color: #002B6B; font-size: 108px; font-family: Li Ador Noirrit; font-weight: 600; line-height: 129.60px; word-wrap: break-word">০২</div>
+        </div>
+        <div style="align-self: stretch; justify-content: flex-start; align-items: center; gap: 24px; display: inline-flex">
+          <div style="opacity: 0.15; text-box-trim: trim-both; text-box-edge: cap alphabetic; color: #002B6B; font-size: 108px; font-family: Li Ador Noirrit; font-weight: 600; line-height: 129.60px; word-wrap: break-word">০৩</div>
+          <div style="flex: 1 1 0; padding: 24px; background: var(--base-White, white); box-shadow: 20px 20px 40px rgba(0, 43, 107, 0.05); border-radius: 20px; outline: 1px var(--border-secondary, #E9EAEB) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 16px; display: flex">
+            <div style="padding: 16px; background: #F6E2FF; overflow: hidden; border-radius: 43px; justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="width: 14px; height: 14px; outline: 1.50px #AA16EF solid; outline-offset: -0.75px"></div>
+              <div style="width: 20.04px; height: 8.95px; outline: 1.50px #AA16EF solid; outline-offset: -0.75px"></div>
+              <div style="width: 6.67px; height: 6.65px; outline: 1.50px #AA16EF solid; outline-offset: -0.75px"></div>
+              <div style="width: 24px; height: 24px; opacity: 0; border: 1.50px #AA16EF solid"></div>
+            </div>
+            <div style="flex-direction: column; justify-content: center; align-items: flex-start; gap: 4px; display: inline-flex">
+              <div style="color: var(--text-primary, #2D2D2D); font-size: 24px; font-family: Hind Siliguri; font-weight: 600; line-height: 32px; word-wrap: break-word">কোর্স শেষে সার্টিফিকেট নিন</div>
+              <div style="color: var(--text-secondary, #414651); font-size: 16px; font-family: Hind Siliguri; font-weight: 400; line-height: 24px; word-wrap: break-word">কোর্স শেষ করে আপনার সার্টিফিকেট সংগ্রহ করুন।</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="width: 579px; align-self: stretch; position: relative">
+      <img style="width: 341px; height: 493px; left: 238px; top: 0px; position: absolute; border-radius: 20px" src="https://placehold.co/341x493" />
+      <img style="width: 214px; height: 339px; left: 0px; top: 0px; position: absolute; border-radius: 20px" src="https://placehold.co/214x339" />
+      <div style="padding: 16px; left: 0px; top: 363px; position: absolute; background: white; box-shadow: 10px 25px 100px rgba(0, 43, 107, 0.25); border-radius: 20px; outline: 1px #EDEEF0 solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 16px; display: inline-flex">
+        <div style="justify-content: flex-start; align-items: center; display: flex">
+          <img style="width: 56px; height: 56px; border: 2px white solid" src="https://placehold.co/56x56" />
+          <img style="width: 56px; height: 56px; border-radius: 9999px; border: 2px white solid" src="https://placehold.co/56x56" />
+          <img style="width: 56px; height: 56px; border-radius: 9999px; border: 2px white solid" src="https://placehold.co/56x56" />
+        </div>
+        <div style="flex-direction: column; justify-content: center; align-items: flex-start; display: inline-flex">
+          <div style="color: var(--brand-solid, #007EBD); font-size: 20px; font-family: Hind Siliguri; font-weight: 700; line-height: 32px; word-wrap: break-word">২০+</div>
+          <div style="color: var(--text-secondary, #414651); font-size: 16px; font-family: Hind Siliguri; font-weight: 600; line-height: 24px; word-wrap: break-word">অভিজ্ঞ শিক্ষক</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 1440px; padding-left: 100px; padding-right: 100px; padding-top: 80px; padding-bottom: 80px; background: white; overflow: hidden; flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: flex">
+    <div style="width: 1239.85px"><span style="color: var(--text-primary, #2D2D2D); font-size: 56px; font-family: Hind Siliguri; font-weight: 600; line-height: 68px; word-wrap: break-word">আপনার সব প্রশ্নের </span><span style="color: var(--brand-solid, #007EBD); font-size: 56px; font-family: Hind Siliguri; font-weight: 600; line-height: 68px; word-wrap: break-word">উত্তর</span><span style="color: var(--text-primary, #2D2D2D); font-size: 56px; font-family: Hind Siliguri; font-weight: 600; line-height: 68px; word-wrap: break-word"> এখানে</span></div>
+    <div style="width: 1240px; justify-content: center; align-items: flex-start; gap: 30px; display: inline-flex">
+      <div style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 30px; display: inline-flex">
+        <div style="align-self: stretch; padding: 24px; background: white; border-radius: 20px; outline: 1px #E6E9EA solid; outline-offset: -1px; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+          <div style="width: 56px; height: 56px; position: relative; background: #EDEEF0; overflow: hidden; border-radius: 48px">
+            <div style="width: 32px; left: 12px; top: 13px; position: absolute; text-align: center; color: var(--brand-solid, #007EBD); font-size: 20px; font-family: Li Ador Noirrit; font-weight: 600; line-height: 30px; word-wrap: break-word">০১</div>
+          </div>
+          <div style="flex: 1 1 0; color: var(--text-primary, #2D2D2D); font-size: 24px; font-family: Hind Siliguri; font-weight: 500; line-height: 32px; word-wrap: break-word">কীভাবে আমি কোর্সে রেজিস্ট্রেশন করতে পারি এবং কোর্স শুরু করব?</div>
+          <div style="width: 24.01px; height: 24px; position: relative; overflow: hidden"></div>
+        </div>
+        <div style="align-self: stretch; padding: 24px; background: white; border-radius: 20px; outline: 1px #E6E9EA solid; outline-offset: -1px; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+          <div style="width: 56px; height: 56px; position: relative; background: #EDEEF0; overflow: hidden; border-radius: 48px">
+            <div style="width: 32px; left: 12px; top: 13px; position: absolute; text-align: center; color: var(--brand-solid, #007EBD); font-size: 20px; font-family: Li Ador Noirrit; font-weight: 600; line-height: 30px; word-wrap: break-word">০২</div>
+          </div>
+          <div style="flex: 1 1 0; color: var(--text-primary, #2D2D2D); font-size: 24px; font-family: Hind Siliguri; font-weight: 500; line-height: 32px; word-wrap: break-word">কোর্সের সময়সীমা কতদিন, এবং আমি কি সময়মতো কোর্স শেষ করতে পারবো?</div>
+          <div style="width: 24.01px; height: 24px; position: relative; overflow: hidden"></div>
+        </div>
+        <div style="align-self: stretch; padding: 24px; background: white; border-radius: 20px; outline: 1px #E6E9EA solid; outline-offset: -1px; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+          <div style="width: 56px; height: 56px; position: relative; background: #EDEEF0; overflow: hidden; border-radius: 48px">
+            <div style="width: 32px; left: 12px; top: 13px; position: absolute; text-align: center; color: var(--brand-solid, #007EBD); font-size: 20px; font-family: Li Ador Noirrit; font-weight: 600; line-height: 30px; word-wrap: break-word">০৩</div>
+          </div>
+          <div style="flex: 1 1 0; color: var(--text-primary, #2D2D2D); font-size: 24px; font-family: Hind Siliguri; font-weight: 500; line-height: 32px; word-wrap: break-word">কোর্সে অংশগ্রহণ করার জন্য কি কোনো পূর্বশর্ত বা বিশেষ দক্ষতা প্রয়োজন?</div>
+          <div style="width: 24.01px; height: 24px; position: relative; overflow: hidden"></div>
+        </div>
+      </div>
+      <div style="flex: 1 1 0; align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 30px; display: inline-flex">
+        <div style="align-self: stretch; flex: 1 1 0; padding: 24px; background: #E6FFF0; box-shadow: 20px 20px 40px rgba(0, 43, 107, 0.10); border-radius: 20px; outline: 1px var(--brand-secondary, #96CAE4) solid; outline-offset: -1px; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+          <div style="width: 56px; height: 56px; position: relative; background: white; overflow: hidden; border-radius: 48px">
+            <div style="width: 32px; left: 12px; top: 13px; position: absolute; text-align: center; color: var(--brand-solid, #007EBD); font-size: 20px; font-family: Li Ador Noirrit; font-weight: 600; line-height: 30px; word-wrap: break-word">০৪</div>
+          </div>
+          <div style="flex: 1 1 0; flex-direction: column; justify-content: center; align-items: center; gap: 16px; display: inline-flex">
+            <div style="width: 444.99px; color: var(--text-primary, #2D2D2D); font-size: 24px; font-family: Hind Siliguri; font-weight: 500; line-height: 32px; word-wrap: break-word">কোর্স শেষ করার পর আমি কীভাবে সার্টিফিকেট পাবো এবং এটি কোথায় ব্যবহার করতে পারি?</div>
+            <div style="align-self: stretch; color: var(--text-secondary, #414651); font-size: 18px; font-family: Hind Siliguri; font-weight: 400; line-height: 28px; word-wrap: break-word">কোর্স সম্পন্ন করার পর আপনি একটি ডিজিটাল সার্টিফিকেট পাবেন, যা আপনি নিজের প্রফাইল বা লিঙ্কডইন অ্যাকাউন্টে যোগ করতে পারেন। এই সার্টিফিকেট আপনাকে ভবিষ্যতে চাকরি বা ক্যারিয়ার সংক্রান্ত অন্যান্য সুযোগের জন্য সাহায্য করবে।</div>
+          </div>
+          <div style="width: 24.01px; height: 24px; position: relative; overflow: hidden"></div>
+        </div>
+        <div style="align-self: stretch; padding: 24px; background: white; border-radius: 20px; outline: 1px #E6E9EA solid; outline-offset: -1px; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+          <div style="width: 56px; height: 56px; position: relative; background: #EDEEF0; overflow: hidden; border-radius: 48px">
+            <div style="width: 32px; left: 12px; top: 13px; position: absolute; text-align: center; color: var(--brand-solid, #007EBD); font-size: 20px; font-family: Li Ador Noirrit; font-weight: 600; line-height: 30px; word-wrap: break-word">০৫</div>
+          </div>
+          <div style="flex: 1 1 0; color: var(--text-primary, #2D2D2D); font-size: 24px; font-family: Hind Siliguri; font-weight: 500; line-height: 32px; word-wrap: break-word">অনলাইনে ক্লাসের সময়সূচী এবং পড়াশোনা কীভাবে পরিচালিত হবে?</div>
+          <div style="width: 24.01px; height: 24px; position: relative; overflow: hidden"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 1440px; padding-top: 40px; padding-bottom: 20px; padding-left: 100px; padding-right: 100px; background: var(--bg-secondary, #F4F4F4); flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 28px; display: flex">
+    <div style="align-self: stretch; justify-content: space-between; align-items: flex-start; display: inline-flex">
+      <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 40px; display: inline-flex">
+        <img style="width: 108px; height: 36px" src="https://placehold.co/108x36" />
+        <div style="width: 392px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 20px; display: flex">
+          <div style="border-radius: 6px; justify-content: flex-start; align-items: center; gap: 12px; display: inline-flex">
+            <div style="width: 24px; height: 24px; position: relative; overflow: hidden">
+              <div style="width: 21px; height: 16.50px; left: 1.50px; top: 3.75px; position: absolute; background: var(--brand-solid, #007EBD)"></div>
+            </div>
+            <div style="color: var(--text-primary, #2D2D2D); font-size: 16px; font-family: Onest; font-weight: 500; line-height: 24px; word-wrap: break-word">hello@koreshikhi.com</div>
+          </div>
+          <div style="border-radius: 6px; justify-content: flex-start; align-items: center; gap: 12px; display: inline-flex">
+            <div style="width: 24px; height: 24px; position: relative; overflow: hidden">
+              <div style="width: 21px; height: 21px; left: 1.50px; top: 1.50px; position: absolute; background: var(--brand-solid, #007EBD)"></div>
+            </div>
+            <div style="color: var(--text-primary, #2D2D2D); font-size: 16px; font-family: Li Ador Noirrit; font-weight: 600; line-height: 24px; word-wrap: break-word">+৮৮ ০১২৩৪৫৬৭৮৯০</div>
+          </div>
+          <div style="border-radius: 6px; justify-content: flex-start; align-items: center; gap: 12px; display: inline-flex">
+            <div style="width: 24px; height: 24px; position: relative; overflow: hidden">
+              <div style="width: 16.50px; height: 20.25px; left: 3.75px; top: 2.25px; position: absolute; background: var(--brand-solid, #007EBD)"></div>
+            </div>
+            <div style="color: var(--text-primary, #2D2D2D); font-size: 16px; font-family: Hind Siliguri; font-weight: 500; line-height: 24px; word-wrap: break-word">ঢাকা, বাংলাদেশ</div>
+          </div>
+        </div>
+      </div>
+      <div style="width: 807px; justify-content: flex-start; align-items: flex-start; gap: 30px; display: flex">
+        <div style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: inline-flex">
+          <div style="align-self: stretch; color: var(--text-primary, #2D2D2D); font-size: 20px; font-family: Hind Siliguri; font-weight: 600; line-height: 32px; word-wrap: break-word">কুইক লিংক </div>
+          <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
+            <div style="align-self: stretch; color: var(--text-secondary, #414651); font-size: 18px; font-family: Hind Siliguri; font-weight: 500; line-height: 28px; word-wrap: break-word">লাইভ ব্যাচ</div>
+            <div style="align-self: stretch; color: var(--text-secondary, #414651); font-size: 18px; font-family: Hind Siliguri; font-weight: 500; line-height: 28px; word-wrap: break-word">কোর্স সমূহ </div>
+            <div style="align-self: stretch; color: var(--text-secondary, #414651); font-size: 18px; font-family: Hind Siliguri; font-weight: 500; line-height: 28px; word-wrap: break-word">স্টুডেন্ট রিভিউ </div>
+            <div style="align-self: stretch; color: var(--text-secondary, #414651); font-size: 18px; font-family: Hind Siliguri; font-weight: 500; line-height: 28px; word-wrap: break-word">প্রশ্নোত্তর </div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: inline-flex">
+          <div style="align-self: stretch; color: var(--text-primary, #2D2D2D); font-size: 20px; font-family: Hind Siliguri; font-weight: 600; line-height: 32px; word-wrap: break-word">কোম্পানি </div>
+          <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
+            <div style="align-self: stretch; color: var(--text-secondary, #414651); font-size: 18px; font-family: Hind Siliguri; font-weight: 500; line-height: 28px; word-wrap: break-word">আমাদের সম্পর্কে </div>
+            <div style="align-self: stretch; color: var(--text-secondary, #414651); font-size: 18px; font-family: Hind Siliguri; font-weight: 500; line-height: 28px; word-wrap: break-word">রিফান্ড পলিসি </div>
+            <div style="align-self: stretch; color: var(--text-secondary, #414651); font-size: 18px; font-family: Hind Siliguri; font-weight: 500; line-height: 28px; word-wrap: break-word">প্রাইভেসি পলিসি </div>
+          </div>
+        </div>
+        <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: inline-flex">
+          <div style="width: 196px; color: var(--text-primary, #2D2D2D); font-size: 20px; font-family: Hind Siliguri; font-weight: 600; line-height: 32px; word-wrap: break-word">কমিউনিটি -এর সাথে কানেক্টেড থাকতে</div>
+          <div style="justify-content: flex-start; align-items: flex-start; gap: 14px; display: inline-flex">
+            <div style="padding: 14px; background: var(--base-White, white); border-radius: 8px; outline: 1px var(--border-secondary, #E9EAEB) solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
+              <div style="width: 24px; height: 24px; position: relative; overflow: hidden">
+                <div style="width: 24px; height: 23.85px; left: 0px; top: 0px; position: absolute; background: var(--brand-solid, #007EBD)"></div>
+              </div>
+            </div>
+            <div style="padding: 14px; background: var(--base-White, white); border-radius: 8px; outline: 1px var(--border-secondary, #E9EAEB) solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
+              <div style="width: 24px; height: 24px; position: relative; overflow: hidden">
+                <div style="width: 24px; height: 19.50px; left: 0px; top: 2.25px; position: absolute; background: var(--brand-solid, #007EBD)"></div>
+              </div>
+            </div>
+            <div style="padding: 14px; background: var(--base-White, white); border-radius: 8px; outline: 1px var(--border-secondary, #E9EAEB) solid; outline-offset: -1px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
+              <div style="width: 24px; height: 24px; position: relative; overflow: hidden">
+                <div style="width: 24px; height: 24px; left: 0px; top: 0px; position: absolute; background: var(--brand-solid, #007EBD)"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; height: 0px; outline: 1px var(--border-primary, #D5D7DA) solid; outline-offset: -0.50px"></div>
+    <div style="align-self: stretch; text-align: center; color: var(--text-secondary, #414651); font-size: 14px; font-family: Onest; font-weight: 500; line-height: 20px; word-wrap: break-word">© 2025 Koreshikhi. All rights reserved.</div>
+  </div>
+  <div style="left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+    <div style="width: 1440px; padding-top: 8px; padding-bottom: 8px; background: var(--brand-solid, #007EBD); justify-content: center; align-items: center; gap: 12px; display: inline-flex">
+      <div style="color: var(--text-invert, white); font-size: 14px; font-family: Hind Siliguri; font-weight: 500; line-height: 20px; word-wrap: break-word">ফ্রি কোর্স 🌟 সেল শেষ হতে চলেছে, এখনই নিন</div>
+      <div style="width: 20px; height: 20px; position: relative; overflow: hidden">
+        <div style="width: 12px; height: 14px; left: 3px; top: 16px; position: absolute; transform: rotate(-90deg); transform-origin: top left; background: white"></div>
+      </div>
+    </div>
+    <div data-platform="Default" data-states="Logged Out" style="width: 1440px; height: 68px; padding-left: 100px; padding-right: 100px; background: var(--base-White, white); box-shadow: 0px 1px 2px rgba(10, 13, 18, 0.05); justify-content: space-between; align-items: center; display: inline-flex">
+      <img style="width: 116px; height: 36px" src="https://placehold.co/116x36" />
+      <div style="height: 28px; justify-content: center; align-items: center; gap: 20px; display: flex">
+        <div data-property-1="Regular" style="justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="color: var(--text-secondary, #414651); font-size: 16px; font-family: Hind Siliguri; font-weight: 500; line-height: 24px; word-wrap: break-word">হোম</div>
+        </div>
+        <div data-property-1="Active" style="justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="color: var(--brand-solid, #007EBD); font-size: 16px; font-family: Hind Siliguri; font-weight: 700; line-height: 24px; word-wrap: break-word">কোর্সসমূহ</div>
+        </div>
+        <div data-property-1="Regular" style="justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="color: var(--text-secondary, #414651); font-size: 16px; font-family: Hind Siliguri; font-weight: 500; line-height: 24px; word-wrap: break-word">ব্লগ</div>
+        </div>
+        <div data-property-1="Regular" style="justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="color: var(--text-secondary, #414651); font-size: 16px; font-family: Hind Siliguri; font-weight: 500; line-height: 24px; word-wrap: break-word">যোগাযোগ</div>
+        </div>
+        <div data-property-1="Regular" style="justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="color: var(--text-secondary, #414651); font-size: 16px; font-family: Hind Siliguri; font-weight: 500; line-height: 24px; word-wrap: break-word">আমাদের সম্পর্কে</div>
+        </div>
+      </div>
+      <div style="justify-content: flex-end; align-items: center; gap: 12px; display: flex">
+        <div style="padding-left: 8px; padding-right: 8px; justify-content: flex-start; align-items: center; gap: 8px; display: flex">
+          <div style="padding: 10px; background: var(--brand-primary, #E6F2F8); overflow: hidden; border-radius: 100px; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+            <div style="width: 4.29px; height: 4.29px; background: var(--brand-solid, #007EBD)"></div>
+            <div style="width: 7.28px; height: 7.29px; background: var(--brand-solid, #007EBD)"></div>
+            <div style="width: 7.79px; height: 12.58px; background: var(--brand-solid, #007EBD)"></div>
+            <div style="width: 10.31px; height: 6.63px; background: var(--brand-solid, #007EBD)"></div>
+            <div style="width: 20px; height: 20px; transform: rotate(-180deg); transform-origin: top left; opacity: 0"></div>
+          </div>
+          <div style="width: 120px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; color: var(--text-tertiary, #828896); font-size: 12px; font-family: Hind Siliguri; font-weight: 400; line-height: 18px; word-wrap: break-word">কল করুন 24/7</div>
+            <div style="align-self: stretch; color: var(--text-primary, #2D2D2D); font-size: 16px; font-family: Hind Siliguri; font-weight: 600; line-height: 24px; word-wrap: break-word">+88 01234567890</div>
+          </div>
+        </div>
+        <div style="width: 235px; padding-left: 8px; padding-right: 8px; padding-top: 6px; padding-bottom: 6px; background: var(--bg-secondary, #F4F4F4); border-radius: 100px; justify-content: flex-start; align-items: center; gap: 8px; display: flex">
+          <div data-platform="Deepto" data-state="Default" style="width: 20px; height: 20px; position: relative; overflow: hidden">
+            <div style="width: 17.91px; height: 17.90px; left: 1.05px; top: 1.05px; position: absolute; background: var(--text-primary, #2D2D2D)"></div>
+          </div>
+          <div style="color: var(--text-quaternary, #A4A7AE); font-size: 14px; font-family: Hind Siliguri; font-weight: 400; line-height: 20px; word-wrap: break-word">কোর্স সার্চ করুন...</div>
+        </div>
+        <div style="justify-content: flex-start; align-items: center; display: flex">
+          <div style="height: 36px; padding-top: 8px; padding-bottom: 8px; padding-left: 8px; flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+            <div data-icon-only="False" data-☑️-state="Default" data-⚙️-type="Primary" data-⛔-destructive="False" data-➡️-tail-icon="false" data-⬅️-lead-icon="false" data-📏-size="Small" data-🟢dot="false" style="height: 36px; padding-left: 12px; padding-right: 12px; background: var(--brand-solid, #007EBD); overflow: hidden; border-radius: 8px; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: var(--text-invert, white); font-size: 16px; font-family: Hind Siliguri; font-weight: 500; line-height: 24px; word-wrap: break-word">সাইন ইন</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
